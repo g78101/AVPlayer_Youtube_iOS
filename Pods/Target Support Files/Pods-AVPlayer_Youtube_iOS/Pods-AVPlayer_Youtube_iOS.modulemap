@@ -1,0 +1,6 @@
+framework module Pods_AVPlayer_Youtube_iOS {
+  umbrella header "Pods-AVPlayer_Youtube_iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,25 @@
+PODS:
+  - YouTubePlayer (0.4.0)
+  - YoutubeSourceParserKit (0.2.4)
+
+DEPENDENCIES:
+  - YouTubePlayer
+  - YoutubeSourceParserKit (from `https://github.com/lennet/YoutubeSourceParserKit`, branch `master`)
+
+EXTERNAL SOURCES:
+  YoutubeSourceParserKit:
+    :branch: master
+    :git: https://github.com/lennet/YoutubeSourceParserKit
+
+CHECKOUT OPTIONS:
+  YoutubeSourceParserKit:
+    :commit: 98f3bcf9886c20eefd82249a6cfbb3068ad86b80
+    :git: https://github.com/lennet/YoutubeSourceParserKit
+
+SPEC CHECKSUMS:
+  YouTubePlayer: 028451f6772f372d4759866db99824c676ac1473
+  YoutubeSourceParserKit: d1506222a62718ed41f18ab52ebbc1b1d9ecabcc
+
+PODFILE CHECKSUM: a86c4477cd7b2c755f8a712d7fa3c5a8e0c2652b
+
+COCOAPODS: 1.1.1
